@@ -1,0 +1,92 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "gapcontinue": "Apple's_Safari",
+        "continue": "gapcontinue||"
+    },
+    "query": {
+        "pages": {
+            "18978754": {
+                "pageid": 18978754,
+                "ns": 0,
+                "title": "Apple",
+                "contentmodel": "wikitext",
+                "pagelanguage": "en",
+                "pagelanguagehtmlcode": "en",
+                "pagelanguagedir": "ltr",
+                "touched": "2020-05-17T19:28:25Z",
+                "lastrevid": 956341464,
+                "length": 76658,
+                "fullurl": "https://en.wikipedia.org/wiki/Apple",
+                "editurl": "https://en.wikipedia.org/w/index.php?title=Apple&action=edit",
+                "canonicalurl": "https://en.wikipedia.org/wiki/Apple"
+            },
+            "42674616": {
+                "pageid": 42674616,
+                "ns": 0,
+                "title": "Apple's Advanced Technology Group",
+                "contentmodel": "wikitext",
+                "pagelanguage": "en",
+                "pagelanguagehtmlcode": "en",
+                "pagelanguagedir": "ltr",
+                "touched": "2020-05-01T03:57:51Z",
+                "lastrevid": 607254809,
+                "length": 74,
+                "redirect": "",
+                "new": "",
+                "fullurl": "https://en.wikipedia.org/wiki/Apple%27s_Advanced_Technology_Group",
+                "editurl": "https://en.wikipedia.org/w/index.php?title=Apple%27s_Advanced_Technology_Group&action=edit",
+                "canonicalurl": "https://en.wikipedia.org/wiki/Apple%27s_Advanced_Technology_Group"
+            },
+            "48847491": {
+                "pageid": 48847491,
+                "ns": 0,
+                "title": "Apple's App Store",
+                "contentmodel": "wikitext",
+                "pagelanguage": "en",
+                "pagelanguagehtmlcode": "en",
+                "pagelanguagedir": "ltr",
+                "touched": "2020-05-11T07:59:17Z",
+                "lastrevid": 695672905,
+                "length": 29,
+                "redirect": "",
+                "new": "",
+                "fullurl": "https://en.wikipedia.org/wiki/Apple%27s_App_Store",
+                "editurl": "https://en.wikipedia.org/w/index.php?title=Apple%27s_App_Store&action=edit",
+                "canonicalurl": "https://en.wikipedia.org/wiki/Apple%27s_App_Store"
+            },
+            "26148680": {
+                "pageid": 26148680,
+                "ns": 0,
+                "title": "Apple's Itunes",
+                "contentmodel": "wikitext",
+                "pagelanguage": "en",
+                "pagelanguagehtmlcode": "en",
+                "pagelanguagedir": "ltr",
+                "touched": "2020-05-02T02:49:17Z",
+                "lastrevid": 343166131,
+                "length": 20,
+                "redirect": "",
+                "new": "",
+                "fullurl": "https://en.wikipedia.org/wiki/Apple%27s_Itunes",
+                "editurl": "https://en.wikipedia.org/w/index.php?title=Apple%27s_Itunes&action=edit",
+                "canonicalurl": "https://en.wikipedia.org/wiki/Apple%27s_Itunes"
+            },
+            "63564570": {
+                "pageid": 63564570,
+                "ns": 0,
+                "title": "Apple's Jade",
+                "contentmodel": "wikitext",
+                "pagelanguage": "en",
+                "pagelanguagehtmlcode": "en",
+                "pagelanguagedir": "ltr",
+                "touched": "2020-05-17T01:16:36Z",
+                "lastrevid": 956802578,
+                "length": 26346,
+                "fullurl": "https://en.wikipedia.org/wiki/Apple%27s_Jade",
+                "editurl": "https://en.wikipedia.org/w/index.php?title=Apple%27s_Jade&action=edit",
+                "canonicalurl": "https://en.wikipedia.org/wiki/Apple%27s_Jade"
+            }
+        }
+    }
+}

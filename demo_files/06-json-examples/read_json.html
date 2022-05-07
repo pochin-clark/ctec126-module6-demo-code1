@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>JSON Demo File</title>
+    </head>
+
+    <body>
+        <script>
+
+            const url = 'colors.json'
+
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    for (item in data['colors']) {
+                        console.log('-')
+                        console.log(`Color: ${data['colors'][item].color}`)
+                        console.log(`Category: ${data['colors'][item].category}`)
+                        console.log(`Type: ${data['colors'][item].type}`)
+                        console.log(`RGBA: ${data['colors'][item].code.rgba[0]}`)
+                    }
+                })
+
+            // fetch('colors.json')
+            //     .then(response => response.json())
+            //     .then(data => processData(data))
+
+            // async function postData(url = '', data = {}) {
+            //     const response = await fetch(url, {
+            //         method: 'GET',
+            //         mode: 'same-origin',
+            //         cache: 'no-cache',
+            //         credentials: 'same-origin',
+            //         headers: {
+            //             'Content-Type': 'application/json'
+            //         },
+            //     })
+            //     return response.json()
+            // }
+
+            // postData(url)
+            //     .then(data => {
+            //         for (item in data['colors']) {
+            //             console.log(data['colors'][item].color)
+            //         }
+            //     })
+
+             // const processData = (data) => {
+            //     for (item in data['colors']) {
+            //         console.log(data['colors'][item].color)
+            //     }
+            // }
+        </script>
+    </body>
+
+</html>

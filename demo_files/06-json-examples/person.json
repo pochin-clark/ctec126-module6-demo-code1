@@ -1,0 +1,14 @@
+{
+    "name": "Bruce Elgort",
+    "age": 56,
+    "address": {
+        "street": "3709 NW 107th Street",
+        "city": "Vancouver",
+        "state": "Washington"
+    },
+    "children": [
+        "Alyssa",
+        "Brandon",
+        "Erin"
+    ]
+}

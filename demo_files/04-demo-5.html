@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Demo 5</title>
+    </head>
+
+    <body>
+        <h1>More on Stringify</h1>
+        <script>
+            const person = {
+                name: "Bruce Elgort",
+                age: 56,
+                address: {
+                    street: "3709 NW 107th Street",
+                    zip: 98685
+                },
+                children: ['Alyssa', 'Brandon', 'Erin']
+            }
+
+            let data = JSON.stringify(person)
+            console.log(data)
+            console.log(data.name)
+
+            data = JSON.parse(data)
+            console.log(data.name)
+
+        </script>
+    </body>
+
+</html>

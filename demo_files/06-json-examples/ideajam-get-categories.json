@@ -1,0 +1,217 @@
+{
+    "result": [
+        {
+            "ideaspace": "Blueskills.net",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Connections",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Domino Designer",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Domino Administrator",
+            "subideaspaces": [
+                "Admin Tools",
+                "Data Storage and Management",
+                "Directory",
+                "Security",
+                "Web Application Server",
+                "Platforms",
+                "Messaging Router"
+            ]
+        },
+        {
+            "ideaspace": "Domino Server",
+            "subideaspaces": [
+                "Directory",
+                "Security",
+                "Admin Tools",
+                "Data Storage and Management",
+                "Web application server",
+                "Platforms",
+                "Messaging router"
+            ]
+        },
+        {
+            "ideaspace": "Expeditor",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "IBM Mashup Center",
+            "subideaspaces": [
+                "Mashups",
+                "MashupHub",
+                "WidgetFactory",
+                "sMash",
+                "Documentation",
+                "Widgets "
+            ]
+        },
+        {
+            "ideaspace": "IBM Verse",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Idea Jam",
+            "subideaspaces": [
+                "Profile",
+                "Registration",
+                "RSS",
+                "Search",
+                "Tags",
+                "UI",
+                "Voting",
+                "Widgets"
+            ]
+        },
+        {
+            "ideaspace": "IQJam",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "LinkJam",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Lotus Enterprise Integrator",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Lotus Forms",
+            "subideaspaces": [
+                "API",
+                "Webform Server",
+                "Forms Services Platform",
+                "Designer",
+                "Viewer",
+                "Turbo",
+                "FileNet",
+                "XFDL",
+                "XForms",
+                "Documentation"
+            ]
+        },
+        {
+            "ideaspace": "Lotus Foundations Start",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Lotus Technical Information",
+            "subideaspaces": [
+                "ActiveInsight",
+                "Community",
+                "Connections",
+                "Dashboard Frameworks",
+                "Domino",
+                "Domino Designer",
+                "Expeditor",
+                "IBM Mashup Center",
+                "iNotes",
+                "Lotus Forms",
+                "Lotus Foundations",
+                "Lotus Workforce Management (LWM)",
+                "Notes Client",
+                "Notes Traveler",
+                "Portal\/Portal Express",
+                "Portlet Factory",
+                "Quickr",
+                "Product Wiki Design",
+                "Sametime",
+                "Symphony",
+                "Videos",
+                "Web Content Management (WCM)"
+            ]
+        },
+        {
+            "ideaspace": "Lotus Workflow",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Lotus WCM",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "LotusLive",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Lotusphere",
+            "subideaspaces": [
+                "BoF",
+                "Closing General Session",
+                "JamFest",
+                "Lodging",
+                "Opening General Session",
+                "Product Showcase",
+                "Session"
+            ]
+        },
+        {
+            "ideaspace": "LS09 Best Practices Sessions",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Notes Client",
+            "subideaspaces": [
+                "Calendar",
+                "Contacts",
+                "Core\/Frameworks (Incl. sidebar, rich text editor)",
+                "iNotes",
+                "Mail",
+                "Other Database Applications",
+                "To do"
+            ]
+        },
+        {
+            "ideaspace": "Quickr",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Project Vulcan",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Sametime",
+            "subideaspaces": [
+                "Administration",
+                "Contact Management",
+                "IM\/Chat Client",
+                "Sametime Gateway",
+                "Installation",
+                "Sametime Mobile",
+                "Telephony",
+                "Video",
+                "Plug-in Support",
+                "Web Conferencing"
+            ]
+        },
+        {
+            "ideaspace": "Symphony",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "TaskJam",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "TiDomino",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Traveler",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Websphere Portal",
+            "subideaspaces": []
+        },
+        {
+            "ideaspace": "Websphere Portal Accelerators",
+            "subideaspaces": []
+        }
+    ]
+}
